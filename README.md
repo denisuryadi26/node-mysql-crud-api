@@ -17,4 +17,4 @@ With a myriad of HTTP utility methods and middleware at your disposal, creating 
 2) Install dependencies using below command
     npm install
 3) Create database and connection
-4) npm start
+4) npm run dev
